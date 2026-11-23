@@ -1,8 +1,17 @@
 {
   "apps": [
     {
+      "package": "com.ituze",
+      "name": "Ituze Apps",
+      "installApp": 1,
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apk": "ituzeapps.apk"
+    },
+    {
       "package": "com.ituze.ituze",
       "name": "Ituze",
+      "installApp": 1,
       "versionCode": 1,
       "versionName": "3.0.0",
       "apk": "ituze.apk"
@@ -10,6 +19,7 @@
     {
       "package": "com.ituze.admin",
       "name": "Admin",
+      "installApp": 1,
       "versionCode": 1,
       "versionName": "2.7.4",
       "apk": "admin.apk"
@@ -17,6 +27,7 @@
     {
       "package": "com.ituze.webapp",
       "name": "webapp",
+      "installApp": 1,
       "versionCode": 1,
       "versionName": "1.0.0",
       "apk": "webapp.apk"
