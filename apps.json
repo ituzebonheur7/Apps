@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "package": "com.ituze.ituze",
+      "name": "Ituze",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "apk": "https://github.com/ituzebonheur7/Apps/releases/download/ituze-v1.0.0/ituze.apk",
+      "sha256": "…"
+    },
+    {
+      "package": "com.ituze.admin",
+      "name": "Admin",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "apk": "https://github.com/ituzebonheur7/Apps/releases/download/admin-v1.0.0/admin.apk",
+      "sha256": "…"
+    },
+    {
+      "package": "com.ituze.webapp",
+      "name": "webapp",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "apk": "https://github.com/ituzebonheur7/Apps/releases/download/webapp-v1.0.0/webapp.apk",
+      "sha256": "…"
+    }
+  ]
+}
