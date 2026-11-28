@@ -23,6 +23,38 @@
       "versionCode": 1,
       "versionName": "1.0.0",
       "apk": "webapp.apk"
+    },
+    {
+      "package": "io.github.samolego.canta",
+      "name": "Canta",
+      "installApp": 1,
+      "versionCode": 1,
+      "versionName": "latest",
+      "apk": "https://github.com/samolego/Canta/releases/latest/download/androidApp-release.apk"
+    },
+    {
+      "package": "moe.shizuku.privileged.api",
+      "name": "Shizuku",
+      "installApp": 1,
+      "versionCode": 1,
+      "versionName": "latest",
+      "apk": "https://github.com/RikkaApps/Shizuku/releases/latest/download/shizuku-release.apk"
+    },
+    {
+      "package": "com.github.justshivv.opentune",
+      "name": "OpenTune",
+      "installApp": 1,
+      "versionCode": 1,
+      "versionName": "latest",
+      "apk": "https://github.com/justshivv/Opentune/releases/latest/download/app-release.apk"
+    },
+    {
+      "package": "com.wstxda.toolkittiles",
+      "name": "Toolkit Tiles",
+      "installApp": 1,
+      "versionCode": 1,
+      "versionName": "latest",
+      "apk": "https://github.com/WSTxda/Toolkit-Tiles/releases/latest/download/app-release.apk"
     }
   ]
 }
