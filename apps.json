@@ -3,6 +3,7 @@
     {
       "package": "com.ituze",
       "name": "Ituze Apps",
+      "icon": "https://ituzebonheur.vercel.app/images/ituze.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "1.0",
@@ -11,6 +12,7 @@
     {
       "package": "com.ituze.ituze",
       "name": "Ituze",
+      "icon": "https://ituzebonheur.vercel.app/images/ituze.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "7.4.2",
@@ -19,6 +21,7 @@
     {
       "package": "com.ituze.webapp",
       "name": "webapp",
+      "icon": "https://ituzebonheur.vercel.app/images/ituze.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "1.0.0",
@@ -27,6 +30,7 @@
     {
       "package": "io.github.samolego.canta",
       "name": "Canta",
+      "icon": "https://raw.githubusercontent.com/samolego/Canta/main/fastlane/metadata/android/en-US/images/icon.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "latest",
@@ -35,6 +39,7 @@
     {
       "package": "moe.shizuku.privileged.api",
       "name": "Shizuku",
+      "icon": "https://raw.githubusercontent.com/RikkaApps/Shizuku/master/manager/src/main/ic_launcher-playstore.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "latest",
@@ -43,6 +48,7 @@
     {
       "package": "com.github.justshivv.opentune",
       "name": "OpenTune",
+      "icon": "https://raw.githubusercontent.com/justshivv/Opentune/main/app/src/main/ic_launcher-playstore.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "latest",
@@ -51,6 +57,7 @@
     {
       "package": "com.wstxda.toolkittiles",
       "name": "Toolkit Tiles",
+      "icon": "https://raw.githubusercontent.com/WSTxda/Toolkit-Tiles/main/app/src/main/ic_launcher-playstore.png",
       "installApp": 1,
       "versionCode": 1,
       "versionName": "latest",
