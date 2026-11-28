@@ -55,7 +55,7 @@
       "apk": "https://github.com/justshivv/Opentune/releases/latest/download/app-release.apk"
     },
     {
-      "package": "com.wstxda.toolkittiles",
+      "package": "com.wstxda.toolkit",
       "name": "Toolkit Tiles",
       "icon": "https://raw.githubusercontent.com/WSTxda/Toolkit-Tiles/main/app/src/main/ic_launcher-playstore.png",
       "installApp": 1,
